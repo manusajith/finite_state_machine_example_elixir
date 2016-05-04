@@ -1,0 +1,2 @@
+defmodule GenFiniteStateMachine do
+end
